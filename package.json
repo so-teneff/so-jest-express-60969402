@@ -1,0 +1,37 @@
+{
+  "name": "so-jest-express-60969402",
+  "version": "1.0.0",
+  "description": "StackOverflow Answer to Question",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teneff/so-jest-express-60969402.git"
+  },
+  "keywords": [
+    "StackOverflow",
+    "Answer",
+    "Question",
+    "Jest",
+    "Express",
+    "async"
+  ],
+  "author": "Stefan Teneff <st.teneff@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Teneff/so-jest-express-60969402/issues"
+  },
+  "homepage": "https://github.com/Teneff/so-jest-express-60969402#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jest": "^25.2.4",
+    "supertest": "^4.0.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.4",
+    "@types/jest": "^25.1.4"
+  }
+}
