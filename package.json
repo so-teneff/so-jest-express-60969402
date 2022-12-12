@@ -26,7 +26,7 @@
   "homepage": "https://github.com/Teneff/so-jest-express-60969402#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jest": "^25.2.4",
     "supertest": "^4.0.2"
   },
